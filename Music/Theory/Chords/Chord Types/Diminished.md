@@ -1,2 +1,0 @@
-### Intervals
-[[Minor third]] (repeats)
