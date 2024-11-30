@@ -1,0 +1,7 @@
+# I [[Minor triad]]
+# II [[Minor triad]]
+# III [[Augmented triad]]
+# IV [[Major triad]]
+# V [[Major triad]]
+# VI [[Diminished triad]]
+# VII [[Diminished triad]]
